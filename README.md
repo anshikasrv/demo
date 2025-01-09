@@ -1,2 +1,2 @@
 # demo
-made for practicing git-github
+A demo for practicing git-github.
